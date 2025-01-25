@@ -23,11 +23,7 @@ This is a Unity-based space game where players control a spaceship, navigate thr
 
 ![resim](https://github.com/user-attachments/assets/0d53f935-e5a9-49ca-afb7-a39cad573c1e)
 ![resim](https://github.com/user-attachments/assets/dd51ad42-fd32-428e-8624-d7bbdfc00758)
-![resim](https://github.com/user-attachments/assets/bc7ad276-de49-4233-83a9-7c060aa38eee)
 ![Ekran görüntüsü 2025-01-25 200903](https://github.com/user-attachments/assets/9387725d-a0f3-4e91-8cca-ff2c8ef36a85)
-
-
-
 
 ## Installation
 
